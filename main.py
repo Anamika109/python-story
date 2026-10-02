@@ -126,8 +126,8 @@
 #     print(z)
 
 
-# for y in range(0,4):
-#     print(y + 1)
+for y in range(0,4):
+    print(y)
 
 
 # x = 12
@@ -138,59 +138,59 @@
 
 
 
-flag = True
+# flag = True
 
 
 
 
-print("Once upon a time there was a prince who was actually a pickpocketer and he started a war because he pickpocketed another nation's kings pocket and then...")
+# print("Once upon a time there was a prince who was actually a pickpocketer and he started a war because he pickpocketed another nation's kings pocket and then...")
 
 
-while flag:
+# while flag:
 
 
-    choice = input("Pick an option! A, B, or C!!!\n")
+    # choice = input("Pick an option! A, B, or C!!!\n")
 
 
-    if choice == "A":
+#     if choice == "A":
 
 
-        print(""" He got the punishment of the guillotine and with no mercy got his head cut off.
+#         print(""" He got the punishment of the guillotine and with no mercy got his head cut off.
 
 
-        His father was furious with the other nation and eventually started a war, but the economy was too bad and the peasents started a rebellion.
+#         His father was furious with the other nation and eventually started a war, but the economy was too bad and the peasents started a rebellion.
 
 
-        His kingdom eventually fell to ashes and was captured by the enemy nation.
+#         His kingdom eventually fell to ashes and was captured by the enemy nation.
 
 
-        The other nations king mysteriously died of a sudden heart attack.
+#         The other nations king mysteriously died of a sudden heart attack.
 
 
-        People who were in the manor the day the king died swore they heard him roaming the halls and whispering, 'I'm back.'""")
+#         People who were in the manor the day the king died swore they heard him roaming the halls and whispering, 'I'm back.'""")
 
 
-        flag = False
+#         flag = False
 
 
 
 
-    elif choice ==  "B":
+#     elif choice ==  "B":
 
 
-        print(" He stole the blurprints to the other nations vault in their kingdom and improved his own kingdoms economy. His father soon gave the position of king to  him and he used it very wisely. His people were happy, he was happy, what could go wrong? The other nations old king never forgot what happened. Even after he died the old prince still had nightmares of him coming back to haunt him. What really happened?")
+#         print(" He stole the blurprints to the other nations vault in their kingdom and improved his own kingdoms economy. His father soon gave the position of king to  him and he used it very wisely. His people were happy, he was happy, what could go wrong? The other nations old king never forgot what happened. Even after he died the old prince still had nightmares of him coming back to haunt him. What really happened?")
 
 
-        flag = False
+#         flag = False
 
 
-    elif choice == "C":
+#     elif choice == "C":
 
 
-        print(" The prince ran away and the other nations king was searching for the pickpocketer giving a million dollars if someone brought him their head. The worried prince told his father what he did and his father told him not to worry as he would handle the situation. During the dead of night when the prince was fast asleep, his father snuck into his beadroom and brutually murdered his own son leaving only his head. The father handed in the hand of the prince and the other nations king was satisfied. The father then went to bed feeling, not guilty but happy as he thought he made the better choice. The father was found dead in his room with a note saying, ' I trusted you, father '. The note did not have a from on it. Suprising I know.")
+#         print(" The prince ran away and the other nations king was searching for the pickpocketer giving a million dollars if someone brought him their head. The worried prince told his father what he did and his father told him not to worry as he would handle the situation. During the dead of night when the prince was fast asleep, his father snuck into his beadroom and brutually murdered his own son leaving only his head. The father handed in the hand of the prince and the other nations king was satisfied. The father then went to bed feeling, not guilty but happy as he thought he made the better choice. The father was found dead in his room with a note saying, ' I trusted you, father '. The note did not have a from on it. Suprising I know.")
 
 
-        flag = False
+#         flag = False
 
 
 
