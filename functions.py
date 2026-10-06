@@ -1,17 +1,6 @@
 # def greeting():
 #     print("Good morning!")
 
-# greeting()
-
-# def night():
-#     print("Good night!")
-
-# night()
-# night()
-# night()
-
-# def square(num: int):
-#     print(num**2)
 
 
 # # square(2)
@@ -62,9 +51,11 @@
 
 
 
-def countdown(num1: int):
-    for y in range(num1,0,-1):
-        print(y)
-    print("ITS TIME")
+# def countdown(num1: int):
+#     for y in range(num1,0,-1):
+#         print(y)
+#     print("ITS TIME")
     
-countdown(7)
+# countdown(7)
+
+

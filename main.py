@@ -126,8 +126,7 @@
 #     print(z)
 
 
-for y in range(0,4):
-    print(y)
+
 
 
 # x = 12
