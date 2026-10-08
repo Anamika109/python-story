@@ -1,6 +1,17 @@
 # def greeting():
 #     print("Good morning!")
 
+# greeting()
+
+# def night():
+#     print("Good night!")
+
+# night()
+# night()
+# night()
+
+# def square(num: int):
+#     print(num**2)
 
 
 # # square(2)
@@ -58,4 +69,17 @@
     
 # countdown(7)
 
+title = input("What is your name?\n")
+years = int(input("How old are you?\n"))
+
+def person(age: int, name: str) -> str:
+    # print(f"Hi, {name}, you are {age}!")
+    if age > 16:
+        return "Bro, instead of being here, get a life"
+    elif age < 16:
+        return "Focus on school, lil kid."
+    else:
+        return "Get a job."
+ans = person(years, title)
+print(f"{ans}")
 
